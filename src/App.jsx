@@ -198,10 +198,10 @@ function App() {
       <div className="content-wrapper">
         <div style={{marginBottom:"115px"}}>
           <h1 className="main-title" style={{padding:"0px",margin:"0px"}}>
-            Make a Wish! 🎂
+            Happy Birthday REEM! 🎂
           </h1>
           <p className="subtitle">
-            🎤 Blow into your microphone to extinguish the candle
+            🎤 Yaa nfe5ilna lchmu3 mnl MICROPHONE 
           </p>
           <p className="subtitle">
             🐛 EZA TAFYET LCHAM3A RJA3I DAWIYA WTAFYEA MN WEN MNL MICROPHONE HAY BUG MA N7ALET MA3I 
