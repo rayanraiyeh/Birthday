@@ -128,10 +128,10 @@ function App() {
           onClick={startMusic}
           style={{
             position: "fixed",
-            top: "80px",
-            right: "20px",
+            // top: "80px",
+            right: "70px",
             zIndex: 1000,
-            background: "#4CAF50",
+            background: "rgb(170 76 175 / 49%)",
             color: "white",
             border: "none",
             borderRadius: "25px",
@@ -164,7 +164,7 @@ function App() {
         onClick={toggleMusic}
         style={{
           position: "fixed",
-          top: "20px",
+          // top: "20px",
           right: "20px",
           zIndex: 1000,
           background: "rgba(255, 255, 255, 0.9)",
